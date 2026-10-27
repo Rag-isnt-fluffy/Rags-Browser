@@ -1,4 +1,4 @@
-# Configurable Browser
+# Configurable Browser (yet to come up with a name)
 
 A starter desktop browser built with Python + QtWebEngine. It renders real websites using Chromium via QtWebEngine; it is not a custom rendering engine sadly.
 
